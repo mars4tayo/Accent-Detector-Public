@@ -1,5 +1,7 @@
 # Accent Detector
+
 https://github.com/user-attachments/assets/485ad330-9318-4da5-9019-a77597bdd9a3
+
 A web application that analyzes video or audio content to detect English accents using AI/ML techniques.
 
 ## Features
